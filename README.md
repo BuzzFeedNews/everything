@@ -1,4 +1,12 @@
-# Data and Analyses
+## Table of Contents
+
+- [Data and Analyses](#data-and-analyses)
+- [Libraries and Tools](#libraries-and-tools)
+- [Guides](#guides)
+
+---
+
+## Data and Analyses
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
@@ -8,7 +16,7 @@ Date|Description|Repo|Article
 2014-06-30|Data on firework-related injuries|[:link:](https://github.com/BuzzFeedNews/2014-06-firework-injuries)|[:link:](http://www.buzzfeed.com/jsvine/275-ways-americans-hurt-themselves-playing-with-fireworks)
 2014-06-16|Data and code for maps showing gender divide in bikeshare programs|[:link:](https://github.com/BuzzFeedNews/2014-06-bikeshare-gender-maps)|[:link:](http://www.buzzfeed.com/jsvine/these-maps-show-a-massive-gender-gap-in-bicycle-riding)
 
-# Libraries and Tools
+## Libraries and Tools
 
 Repo|Description
 ----|-----------
@@ -16,7 +24,7 @@ Repo|Description
 [twick](https://github.com/jsvine/twick)|Twitter, quick. Fetch and store tweets on short notice.
 
 
-# Guides
+## Guides
 Repo|Description
 ----|-----------
 [bikeshare-data-sources](https://github.com/BuzzFeedNews/bikeshare-data-sources)|Guide for getting trip history and station data from various bicycle-sharing programs.
