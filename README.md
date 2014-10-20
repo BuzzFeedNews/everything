@@ -10,6 +10,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2014-10-19|Debunking the Obama-pronoun myth — data and code|[:link:](https://github.com/BuzzFeedNews/presidential-language-notebooks)|[:link:](http://www.buzzfeed.com/johntemplon/obamas-pronouns-dont-make-him-narcissist)
 2014-09-05|Detecting Sunday morning show guests whose "stars are rising" — data and code|[:link:](https://github.com/BuzzFeedNews/2014-09-rising-sunday-show-guests)|[:link:](http://www.buzzfeed.com/jsvine/five-sunday-morning-show-guests-whose-stars-are-rising)
 2014-09-04|Comparing college costs to minimum-wage earnings — data, sourcing notes, and analysis|[:link:](https://github.com/BuzzFeedNews/2014-09-tuition-and-minimum-wage)|[:link:](http://www.buzzfeed.com/gregschoofs/how-much-college-did-your-summer-job-pay-for)
 2014-08-20|Quantifying racial segregation in St. Louis County — code|[:link:](https://github.com/BuzzFeedNews/2014-08-st-louis-county-segregation)|[:link:](http://www.buzzfeed.com/jsvine/the-ferguson-area-is-even-more-segregated-than-you-thought)
