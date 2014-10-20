@@ -10,13 +10,13 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
-2014-09-05|Data and code to detect Sunday morning show guests whose "stars are rising"|[:link:](https://github.com/BuzzFeedNews/2014-09-rising-sunday-show-guests)|[:link:](http://www.buzzfeed.com/jsvine/five-sunday-morning-show-guests-whose-stars-are-rising)
-2014-09-04|Data, sourcing notes, and analysis comparing college costs to minimum-wage earnings|[:link:](https://github.com/BuzzFeedNews/2014-09-tuition-and-minimum-wage)|[:link:](http://www.buzzfeed.com/gregschoofs/how-much-college-did-your-summer-job-pay-for)
-2014-08-20|Analysis of racial segregation in St. Louis County|[:link:](https://github.com/BuzzFeedNews/2014-08-st-louis-county-segregation)|[:link:](http://www.buzzfeed.com/jsvine/the-ferguson-area-is-even-more-segregated-than-you-thought)
-2014-08-13|Analysis of NBA owners' winning percentages|[:link:](https://gist.github.com/jtemplon/4d84d0d2a112d09394b6)|[:link:](http://www.buzzfeed.com/johntemplon/heres-how-terrible-the-clippers-were-under-donald-sterling)
-2014-08-07|Data on, and analysis of, FTC complaints re. IRS impersonators|[:link:](https://github.com/BuzzFeedNews/2014-08-irs-scams)|[:link:](http://www.buzzfeed.com/johntemplon/tax-collection-scams-skyrocket)
-2014-06-30|Data on firework-related injuries|[:link:](https://github.com/BuzzFeedNews/2014-06-firework-injuries)|[:link:](http://www.buzzfeed.com/jsvine/275-ways-americans-hurt-themselves-playing-with-fireworks)
-2014-06-16|Data and code for maps showing gender divide in bikeshare programs|[:link:](https://github.com/BuzzFeedNews/2014-06-bikeshare-gender-maps)|[:link:](http://www.buzzfeed.com/jsvine/these-maps-show-a-massive-gender-gap-in-bicycle-riding)
+2014-09-05|Detecting Sunday morning show guests whose "stars are rising" — data and code|[:link:](https://github.com/BuzzFeedNews/2014-09-rising-sunday-show-guests)|[:link:](http://www.buzzfeed.com/jsvine/five-sunday-morning-show-guests-whose-stars-are-rising)
+2014-09-04|Comparing college costs to minimum-wage earnings — data, sourcing notes, and analysis|[:link:](https://github.com/BuzzFeedNews/2014-09-tuition-and-minimum-wage)|[:link:](http://www.buzzfeed.com/gregschoofs/how-much-college-did-your-summer-job-pay-for)
+2014-08-20|Quantifying racial segregation in St. Louis County — code|[:link:](https://github.com/BuzzFeedNews/2014-08-st-louis-county-segregation)|[:link:](http://www.buzzfeed.com/jsvine/the-ferguson-area-is-even-more-segregated-than-you-thought)
+2014-08-13|NBA owners' winning percentages — data|[:link:](https://gist.github.com/jtemplon/4d84d0d2a112d09394b6)|[:link:](http://www.buzzfeed.com/johntemplon/heres-how-terrible-the-clippers-were-under-donald-sterling)
+2014-08-07|FTC complaints re. IRS impersonators — data and analysis|[:link:](https://github.com/BuzzFeedNews/2014-08-irs-scams)|[:link:](http://www.buzzfeed.com/johntemplon/tax-collection-scams-skyrocket)
+2014-06-30|Firework-related injuries — data|[:link:](https://github.com/BuzzFeedNews/2014-06-firework-injuries)|[:link:](http://www.buzzfeed.com/jsvine/275-ways-americans-hurt-themselves-playing-with-fireworks)
+2014-06-16|Mapping the gender divide in bikeshare programs — data and code|[:link:](https://github.com/BuzzFeedNews/2014-06-bikeshare-gender-maps)|[:link:](http://www.buzzfeed.com/jsvine/these-maps-show-a-massive-gender-gap-in-bicycle-riding)
 
 
 ## Libraries and Tools
