@@ -24,6 +24,7 @@ Date|Description|Repo|Article
 
 Repo|Description
 ----|-----------
+[whtranscripts](https://github.com/BuzzFeedNews/whtranscripts)|Fetch and parse the American Presidency Project's press-briefing and presidential-news-conference transcripts.
 [bikeshares](https://github.com/BuzzFeedNews/bikeshares)|Standardized parsers for data published by bicycle-sharing programs. Currently supporting: NYC's Citi Bike, Chicago's Divvy, and Boston's Hubway.
 [twick](https://github.com/jsvine/twick)|Twitter, quick. Fetch and store tweets on short notice.
 
