@@ -10,7 +10,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
-2015-03-06|Analyzing state-by-state changes in earthquake frequency.|[:link:](https://github.com/BuzzFeedNews/2015-03-earthquake-maps)|[:link:](http://www.buzzfeed.com/danvergano/midwestern-states-are-having-big-earthquakes-like-never-befo)
+2015-03-06|Analyzing state-by-state changes in earthquake frequency|[:link:](https://github.com/BuzzFeedNews/2015-03-earthquake-maps)|[:link:](http://www.buzzfeed.com/danvergano/midwestern-states-are-having-big-earthquakes-like-never-befo)
 2015-02-20|Analyzing deficiencies among Texas foster care child placing agencies|[:link:](https://github.com/BuzzFeedNews/2015-02-texas-cpa-deficiencies)|[:link:](http://www.buzzfeed.com/aramroston/fostering-profits)
 2015-02-20|Analyzing performance scores of Georgia child placing agencies|[:link:](https://github.com/BuzzFeedNews/2015-02-georgia-cpa-scores)|[:link:](http://www.buzzfeed.com/aramroston/fostering-profits)
 2014-10-19|Debunking the Obama-pronoun myth — data and code|[:link:](https://github.com/BuzzFeedNews/presidential-language-notebooks)|[:link:](http://www.buzzfeed.com/johntemplon/obamas-pronouns-dont-make-him-narcissist)
