@@ -10,6 +10,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2015-07-07|Data and analysis re. the use of primates in biodefense research|[:link:](https://github.com/BuzzFeedNews/2015-07-primates)|[:link:](http://www.buzzfeed.com/peteraldhous/the-monkey-victims-of-the-war-on-terror)
 2015-06-04|Data and analysis of BuzzFeed/Ipsos poll on same-sex marriage and abortion views|[:link:](https://github.com/BuzzFeedNews/2015-06-ssm-and-abortion-poll)|[:link:](http://www.buzzfeed.com/lesterfeder/nine-facts-we-learned-about-same-sex-marriage-support-poll) [:link:](http://www.buzzfeed.com/lesterfeder/this-is-how-23-countries-around-the-world-feel-about-abortio)
 2015-05-03|Analyzing #talkpay tweets|[:link:](https://github.com/BuzzFeedNews/2015-05-talkpay-tweets)|[:link:](http://www.buzzfeed.com/carolineodonovan/talkpay-topped-twitter)
 2015-03-06|Analyzing state-by-state changes in earthquake frequency|[:link:](https://github.com/BuzzFeedNews/2015-03-earthquake-maps)|[:link:](http://www.buzzfeed.com/danvergano/midwestern-states-are-having-big-earthquakes-like-never-befo)
