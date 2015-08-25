@@ -10,6 +10,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2015-08-25|Data and analysis re. immigrant detention rates|[:link:](https://github.com/BuzzFeedNews/2015-08-immigrant-detention)|[:link:](http://www.buzzfeed.com/davidnoriega/vast-disparities-by-nationality-in-immigration-jailings)
 2015-07-24|Data and analysis re. H-2 visa certifications and enforcement|[:link:](https://github.com/BuzzFeedNews/2015-07-h2-visas-and-enforcement)|[:link:](http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f)
 2015-07-07|Data and analysis re. the use of primates in biodefense research|[:link:](https://github.com/BuzzFeedNews/2015-07-primates)|[:link:](http://www.buzzfeed.com/peteraldhous/the-monkey-victims-of-the-war-on-terror)
 2015-06-04|Data and analysis of BuzzFeed/Ipsos poll on same-sex marriage and abortion views|[:link:](https://github.com/BuzzFeedNews/2015-06-ssm-and-abortion-poll)|[:link:](http://www.buzzfeed.com/lesterfeder/nine-facts-we-learned-about-same-sex-marriage-support-poll) [:link:](http://www.buzzfeed.com/lesterfeder/this-is-how-23-countries-around-the-world-feel-about-abortio)
