@@ -10,6 +10,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2015-12-02|Time elapsed between mass shootings in the U.S.|[:link:](https://github.com/BuzzFeedNews/2015-12-mass-shooting-intervals)|[:link:](http://www.buzzfeed.com/jsvine/heres-how-little-time-america-gets-between-mass-shootings)
 2015-12-01|H-2 visa certifications and experience requirements|[:link:](https://github.com/BuzzFeedNews/2015-12-H-2-visas-and-experience-requirements)|[:link:](http://www.buzzfeed.com/jessicagarrison/all-you-americans-are-fired)
 2015-11-24|Simulated lottery odds|[:link:](https://github.com/BuzzFeedNews/2015-11-lottery-simulations)|[:link:](http://www.buzzfeed.com/jsvine/daily-fantasy-vs-mega-millions)
 2015-11-19|Refugee arrivals in the United States|[:link:](https://github.com/BuzzFeedNews/2015-11-refugees-in-the-united-states)|[:link:](http://www.buzzfeed.com/jsvine/where-us-refugees-come-from-and-go-in-charts)
