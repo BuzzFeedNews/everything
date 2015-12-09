@@ -10,6 +10,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2015-12-09|How long will the Warriors' win streak last?|[:link:](https://gist.github.com/jsvine/2420508ffd35c10a0a95)|[:link:](http://www.buzzfeed.com/jsvine/how-long-will-the-golden-state-warriors-win-streak-last)
 2015-12-07|Race and fatal police shootings|[:link:](https://github.com/BuzzFeedNews/2015-12-fatal-police-shootings)|[:link:](http://www.buzzfeed.com/peteraldhous/race-and-police-shootings)
 2015-12-02|Time elapsed between mass shootings in the U.S.|[:link:](https://github.com/BuzzFeedNews/2015-12-mass-shooting-intervals)|[:link:](http://www.buzzfeed.com/jsvine/heres-how-little-time-america-gets-between-mass-shootings)
 2015-12-01|H-2 visa certifications and experience requirements|[:link:](https://github.com/BuzzFeedNews/2015-12-H-2-visas-and-experience-requirements)|[:link:](http://www.buzzfeed.com/jessicagarrison/all-you-americans-are-fired)
