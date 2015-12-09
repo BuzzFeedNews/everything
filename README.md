@@ -38,6 +38,7 @@ Date|Description|Repo|Article
 
 Repo|Description
 ----|-----------
+[nics-firearm-background-checks](https://github.com/BuzzFeedNews/nics-firearm-background-checks)|Monthly data from the FBI's National Instant Criminal Background Check System, converted from PDF to CSV.
 [H-2-certification-data](https://github.com/BuzzFeedNews/H-2-certification-data)|H-2 visa certification data & data-standardization.
 [whtranscripts](https://github.com/BuzzFeedNews/whtranscripts)|Fetch and parse the American Presidency Project's press-briefing and presidential-news-conference transcripts.
 [bikeshares](https://github.com/BuzzFeedNews/bikeshares)|Standardized parsers for data published by bicycle-sharing programs. Currently supporting: NYC's Citi Bike, Chicago's Divvy, and Boston's Hubway.
