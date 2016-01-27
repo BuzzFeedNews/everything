@@ -10,6 +10,8 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2016-01-26|Analysis of Jefferson County (TX) jail data|[:link:](https://github.com/BuzzFeedNews/2016-01-texas-municipal-courts)|[:link:](http://www.buzzfeed.com/alexcampbell/the-ticket-machine)
+2016-01-26|Analysis of criminal case dispositions in Texas municipal courts|[:link:](https://github.com/BuzzFeedNews/2016-01-texas-municipal-courts)|[:link:](http://www.buzzfeed.com/alexcampbell/the-ticket-machine)
 2016-01-17|Methodology and code for "The Tennis Racket"|[:link:](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis)|[:link:](http://www.buzzfeed.com/heidiblake/the-tennis-racket)
 2015-12-29|Data and analysis for "The Coyote"|[:link:](https://github.com/BuzzFeedNews/2015-12-the-coyote)|[:link:](http://www.buzzfeed.com/kenbensinger/the-coyote)
 2015-12-09|How long will the Warriors' win streak last?|[:link:](https://gist.github.com/jsvine/2420508ffd35c10a0a95)|[:link:](http://www.buzzfeed.com/jsvine/how-long-will-the-golden-state-warriors-win-streak-last)
