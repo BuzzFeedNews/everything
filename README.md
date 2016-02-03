@@ -1,6 +1,7 @@
 ## Table of Contents
 
 - [Data and Analyses](#data-and-analyses)
+- [Standalone Datasets](#standalone-datasets)
 - [Libraries and Tools](#libraries-and-tools)
 - [Guides](#guides)
 
