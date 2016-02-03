@@ -40,18 +40,24 @@ Date|Description|Repo|Article
 2014-06-30|Firework-related injuries — data|[:link:](https://github.com/BuzzFeedNews/2014-06-firework-injuries)|[:link:](http://www.buzzfeed.com/jsvine/275-ways-americans-hurt-themselves-playing-with-fireworks)
 2014-06-16|Mapping the gender divide in bikeshare programs — data and code|[:link:](https://github.com/BuzzFeedNews/2014-06-bikeshare-gender-maps)|[:link:](http://www.buzzfeed.com/jsvine/these-maps-show-a-massive-gender-gap-in-bicycle-riding)
 
-
-## Libraries and Tools
+## Standalone Datasets
 
 Repo|Description
 ----|-----------
 [nics-firearm-background-checks](https://github.com/BuzzFeedNews/nics-firearm-background-checks)|Monthly data from the FBI's National Instant Criminal Background Check System, converted from PDF to CSV.
 [H-2-certification-data](https://github.com/BuzzFeedNews/H-2-certification-data)|H-2 visa certification data & data-standardization.
+
+## Libraries and Tools
+
+Repo|Description
+----|-----------
 [whtranscripts](https://github.com/BuzzFeedNews/whtranscripts)|Fetch and parse the American Presidency Project's press-briefing and presidential-news-conference transcripts.
 [bikeshares](https://github.com/BuzzFeedNews/bikeshares)|Standardized parsers for data published by bicycle-sharing programs. Currently supporting: NYC's Citi Bike, Chicago's Divvy, and Boston's Hubway.
 [twick](https://github.com/jsvine/twick)|Twitter, quick. Fetch and store tweets on short notice.
 
+
 ## Guides
 Repo|Description
 ----|-----------
+[zika-data](https://github.com/BuzzFeedNews/zika-data)|Data — and pointers to data — related to the 2015–16 Zika virus outbreak.
 [bikeshare-data-sources](https://github.com/BuzzFeedNews/bikeshare-data-sources)|Guide for getting trip history and station data from various bicycle-sharing programs.
