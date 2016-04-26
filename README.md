@@ -11,6 +11,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2016-04-26|Analysis of GOP donor movements post-Bush and post-Rubio|[:link:](https://github.com/BuzzFeedNews/2016-04-republican-donor-movements)|[:link:](https://www.buzzfeed.com/johntemplon/bush-rubio-donors-didnt-rush-to-support-ted-cruz-in-march)
 2016-04-20|Analysis of Bernie Sanders's ActBlue donors|[:link:](https://github.com/BuzzFeedNews/2016-04-bernie-sanders-donors)|[:link:](http://www.buzzfeed.com/johntemplon/how-bernie-sanders-raises-all-that-money)
 2016-04-06|Data and code for "Spies In The Skies"|[:link:](https://github.com/BuzzFeedNews/2016-04-federal-surveillance-planes)|[:link:](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies)
 2016-02-01|Bush/Rubio/Cruz donor movement analysis|[:link:](https://github.com/BuzzFeedNews/2016-02-republican-donor-movements)|[:link:](http://www.buzzfeed.com/katherinemiller/the-jeb-bush-marco-rubio-donor-shift-is-real-and-its-acceler)
