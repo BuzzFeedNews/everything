@@ -17,7 +17,7 @@ Date|Description|Repo|Article
 2016-04-06|Data and code for "Spies In The Skies"|[:link:](https://github.com/BuzzFeedNews/2016-04-federal-surveillance-planes)|[:link:](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies)
 2016-02-01|Bush/Rubio/Cruz donor movement analysis|[:link:](https://github.com/BuzzFeedNews/2016-02-republican-donor-movements)|[:link:](http://www.buzzfeed.com/katherinemiller/the-jeb-bush-marco-rubio-donor-shift-is-real-and-its-acceler)
 2016-01-29|Data and code for "America's Quiet Crackdown On Indian Immigrants" |[:link:](https://github.com/BuzzFeedNews/2016-01-immigrant-detention-india)|[:link:](http://www.buzzfeed.com/davidnoriega/americas-quiet-crackdown-on-indian-immigrants)
-2016-01-26|Analysis of Jefferson County (TX) jail data|[:link:](https://github.com/BuzzFeedNews/2016-01-texas-municipal-courts)|[:link:](http://www.buzzfeed.com/alexcampbell/the-ticket-machine)
+2016-01-26|Analysis of Jefferson County (TX) jail data|[:link:](https://github.com/BuzzFeedNews/2016-01-port-arthur-arrests)|[:link:](http://www.buzzfeed.com/alexcampbell/the-ticket-machine)
 2016-01-26|Analysis of criminal case dispositions in Texas municipal courts|[:link:](https://github.com/BuzzFeedNews/2016-01-texas-municipal-courts)|[:link:](http://www.buzzfeed.com/alexcampbell/the-ticket-machine)
 2016-01-17|Methodology and code for "The Tennis Racket"|[:link:](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis)|[:link:](http://www.buzzfeed.com/heidiblake/the-tennis-racket)
 2015-12-29|Data and analysis for "The Coyote"|[:link:](https://github.com/BuzzFeedNews/2015-12-the-coyote)|[:link:](http://www.buzzfeed.com/kenbensinger/the-coyote)
