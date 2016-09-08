@@ -11,6 +11,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2016-09-08|Data and analysis supporting "When Detectives Dismiss Rape Reports Before Investigating Them"|[:link:](https://github.com/BuzzFeedNews/2016-09-ucr-analysis)|[:link:](https://www.buzzfeed.com/alexcampbell/unfounded)
 2016-07-24|Data supporting "The Republican Convention Was Secretly Watched From Above" and "Government Spy Planes Circled Over The Democratic Convention More Intensely Than GOP Event"|[:link:](https://github.com/BuzzFeedNews/2016-07-rnc-dnc-surveillance-planes)|[:link:](https://www.buzzfeed.com/peteraldhous/surveillance-at-the-rnc) [:link:](https://www.buzzfeed.com/peteraldhous/surveillance-at-the-dnc)
 2016-05-12|Analysis of H-2 debarments, violations, and certifications ("The Pushovers")|[:link:](https://github.com/BuzzFeedNews/2016-05-H-2-debarments-and-violations)|[:link:](https://www.buzzfeed.com/kenbensinger/the-pushovers)
 2016-04-26|Analysis of GOP donor movements post-Bush and post-Rubio|[:link:](https://github.com/BuzzFeedNews/2016-04-republican-donor-movements)|[:link:](https://www.buzzfeed.com/johntemplon/bush-rubio-donors-didnt-rush-to-support-ted-cruz-in-march)
