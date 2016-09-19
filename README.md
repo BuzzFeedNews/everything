@@ -11,7 +11,9 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2016-09-16|Code supporting "Why 'Shy Trumpers' Probably Won't Decide The Election"|[:link:](https://github.com/BuzzFeedNews/2016-09-shy-trumpers)|[:link:](https://www.buzzfeed.com/peteraldhous/where-are-the-shy-trumpers)
 2016-09-08|Data and analysis supporting "When Detectives Dismiss Rape Reports Before Investigating Them"|[:link:](https://github.com/BuzzFeedNews/2016-09-ucr-analysis)|[:link:](https://www.buzzfeed.com/alexcampbell/unfounded)
+2016-08-22|Data and analysis supporting "How Katie Ledecky Stacks Up Against Male Swimmers"|[:link:](https://github.com/BuzzFeedNews/2016-08-sports-gender-gaps)|[:link:](https://www.buzzfeed.com/peteraldhous/katie-ledecky-superhuman)
 2016-07-30|Data and code supporting "Why Track-And-Field Stars Don’t Set World Records Like They Used To (But Swimmers Do)"|[:link:](https://github.com/BuzzFeedNews/2016-07-athletic-performances)|[:link:](https://www.buzzfeed.com/peteraldhous/faster-higher-stronger-not)
 2016-07-24|Data supporting "The Republican Convention Was Secretly Watched From Above" and "Government Spy Planes Circled Over The Democratic Convention More Intensely Than GOP Event"|[:link:](https://github.com/BuzzFeedNews/2016-07-rnc-dnc-surveillance-planes)|[:link:](https://www.buzzfeed.com/peteraldhous/surveillance-at-the-rnc) [:link:](https://www.buzzfeed.com/peteraldhous/surveillance-at-the-dnc)
 2016-05-12|Analysis of H-2 debarments, violations, and certifications ("The Pushovers")|[:link:](https://github.com/BuzzFeedNews/2016-05-H-2-debarments-and-violations)|[:link:](https://www.buzzfeed.com/kenbensinger/the-pushovers)
