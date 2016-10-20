@@ -11,6 +11,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2016-10-20|Data and analysis supporting "Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate"|[:link:](https://github.com/BuzzFeedNews/2016-10-facebook-fact-check)|[:link:](https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis)
 2016-10-09|Data and analysis re. White ancestry and Trump support|[:link:](https://github.com/BuzzFeedNews/2016-10-white-ancestry-and-trump-support)|[:link:](https://www.buzzfeed.com/peteraldhous/trump-and-the-white-vote)
 2016-09-16|Code supporting "Why 'Shy Trumpers' Probably Won't Decide The Election"|[:link:](https://github.com/BuzzFeedNews/2016-09-shy-trumpers)|[:link:](https://www.buzzfeed.com/peteraldhous/where-are-the-shy-trumpers)
 2016-09-08|Data and analysis supporting "When Detectives Dismiss Rape Reports Before Investigating Them"|[:link:](https://github.com/BuzzFeedNews/2016-09-ucr-analysis)|[:link:](https://www.buzzfeed.com/alexcampbell/unfounded)
