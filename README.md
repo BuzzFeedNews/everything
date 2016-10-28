@@ -11,6 +11,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2016-10-27|Data and analysis supporting "Clinton Receives Thirty Times As Much Tech Cash As Trump"|[:link:](https://github.com/BuzzFeedNews/2016-10-tech-campaign-contributions)|[:link:](https://www.buzzfeed.com/hamzashaban/tech-donates-thirty-times-as-much-to-clinton)
 2016-10-20|Data and analysis supporting "Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate"|[:link:](https://github.com/BuzzFeedNews/2016-10-facebook-fact-check)|[:link:](https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis)
 2016-10-09|Data and analysis re. White ancestry and Trump support|[:link:](https://github.com/BuzzFeedNews/2016-10-white-ancestry-and-trump-support)|[:link:](https://www.buzzfeed.com/peteraldhous/trump-and-the-white-vote)
 2016-09-16|Code supporting "Why 'Shy Trumpers' Probably Won't Decide The Election"|[:link:](https://github.com/BuzzFeedNews/2016-09-shy-trumpers)|[:link:](https://www.buzzfeed.com/peteraldhous/where-are-the-shy-trumpers)
@@ -56,6 +57,7 @@ Date|Description|Repo|Article
 
 Repo|Description
 ----|-----------
+[presidential-campaign-contributions](https://github.com/BuzzFeedNews/presidential-campaign-contributions)|Contributions, transfers, and refunds from recent U.S. presidential candidates' principal campaign committees.
 [nics-firearm-background-checks](https://github.com/BuzzFeedNews/nics-firearm-background-checks)|Monthly data from the FBI's National Instant Criminal Background Check System, converted from PDF to CSV.
 [H-2-certification-data](https://github.com/BuzzFeedNews/H-2-certification-data)|H-2 visa certification data & data-standardization.
 
