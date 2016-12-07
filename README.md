@@ -11,6 +11,7 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2016-12-06|Data and analysis supporting "Most Americans Who See Fake News Believe It, New Survey Says"|[:link:](https://github.com/BuzzFeedNews/2016-12-fake-news-survey)|[:link:](https://www.buzzfeed.com/craigsilverman/fake-news-survey)
 2016-11-28|Data and code supporting evaluation of forecasters' 2016 election forecast|[:link:](https://github.com/BuzzFeedNews/2016-11-grading-the-election-forecasts)|[:link:](https://www.buzzfeed.com/jsvine/2016-election-forecast-grades)
 2016-11-07|Data and analysis supporting "How The Electoral College Screws Hispanic And Asian Voters"|[:link:](https://github.com/BuzzFeedNews/2016-11-voter-power-by-demographic)|[:link:](https://www.buzzfeed.com/johntemplon/how-the-electoral-college-screws-hispanic-and-asian-voters)
 2016-11-03|Analysis of "bellwether" counties in U.S. presidential elections|[:link:](https://github.com/BuzzFeedNews/2016-11-bellwether-counties)|[:link:](https://www.buzzfeed.com/johntemplon/how-well-does-your-county-predict-the-next-president)
