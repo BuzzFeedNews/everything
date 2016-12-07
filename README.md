@@ -9,8 +9,9 @@
 
 ## Data and Analyses
 
-Date|Description|Repo|Article
+Date|Description|Repo(s)|Article(s)
 ----|-----------|----|-------
+2016-12-07|Data, methodologies, and analyses supporting "Intake"|[:link:](https://github.com/BuzzFeedNews/2016-12-medicare-claims-analysis)[:link:](https://github.com/BuzzFeedNews/2016-12-inpatient-discharge-analysis)[:link:](https://github.com/BuzzFeedNews/2016-12-river-point-involuntary-commitment-petitions)|[:link:](https://www.buzzfeed.com/rosalindadams/intake)
 2016-12-06|Data and analysis supporting "Most Americans Who See Fake News Believe It, New Survey Says"|[:link:](https://github.com/BuzzFeedNews/2016-12-fake-news-survey)|[:link:](https://www.buzzfeed.com/craigsilverman/fake-news-survey)
 2016-11-28|Data and code supporting evaluation of forecasters' 2016 election forecast|[:link:](https://github.com/BuzzFeedNews/2016-11-grading-the-election-forecasts)|[:link:](https://www.buzzfeed.com/jsvine/2016-election-forecast-grades)
 2016-11-07|Data and analysis supporting "How The Electoral College Screws Hispanic And Asian Voters"|[:link:](https://github.com/BuzzFeedNews/2016-11-voter-power-by-demographic)|[:link:](https://www.buzzfeed.com/johntemplon/how-the-electoral-college-screws-hispanic-and-asian-voters)
