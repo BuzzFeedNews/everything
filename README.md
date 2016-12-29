@@ -11,6 +11,8 @@
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|----|-------
+2016-12-29|Data and analysis re. transgender rights survey|[:link:](https://github.com/BuzzFeedNews/2016-12-transgender-rights-survey)|[:link:](https://www.buzzfeed.com/lesterfeder/this-is-how-23-countries-feel-about-transgender-rights)[:link:](https://www.buzzfeed.com/jsvine/transgender-rights-survey-methodology)
+2016-12-20|Data and code to reproduce the graphics from "2016 Will Be The Warmest Year, But This Is How Deniers Will Spin It"|[:link:](https://github.com/BuzzFeedNews/2016-12-warmest-year)|[:link:](https://www.buzzfeed.com/peteraldhous/another-hottest-year)
 2016-12-07|Data, methodologies, and analyses supporting "Intake"|[:link:](https://github.com/BuzzFeedNews/2016-12-medicare-claims-analysis)[:link:](https://github.com/BuzzFeedNews/2016-12-inpatient-discharge-analysis)[:link:](https://github.com/BuzzFeedNews/2016-12-river-point-involuntary-commitment-petitions)|[:link:](https://www.buzzfeed.com/rosalindadams/intake)
 2016-12-06|Data and analysis supporting "Most Americans Who See Fake News Believe It, New Survey Says"|[:link:](https://github.com/BuzzFeedNews/2016-12-fake-news-survey)|[:link:](https://www.buzzfeed.com/craigsilverman/fake-news-survey)
 2016-11-28|Data and code supporting evaluation of forecasters' 2016 election forecast|[:link:](https://github.com/BuzzFeedNews/2016-11-grading-the-election-forecasts)|[:link:](https://www.buzzfeed.com/jsvine/2016-election-forecast-grades)
