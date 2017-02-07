@@ -11,6 +11,7 @@
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|----|-------
+2017-01-31|R code to recreate the graphics in "These Nobel Prizewinners Show Why Immigration Is So Important For American Science"|[:link:](https://github.com/BuzzFeedNews/2017-01-immigration-and-science)|[:link:](https://www.buzzfeed.com/peteraldhous/immigration-and-science)
 2017-01-19|Data and analysis supporting "Most American Adults Get News From Facebook — But They Don’t Really Trust It, A New Survey Says"|[:link:](https://github.com/BuzzFeedNews/2017-01-media-platform-and-news-trust-survey)|[:link:](https://www.buzzfeed.com/craigsilverman/people-be-reading-but-not-trusting-news-on-facebook)
 2017-01-18|Data and R code to reproduce the graphics in "2016 Was The Hottest Year. Yes, Greenhouse Gases Are To Blame."|[:link:](https://github.com/BuzzFeedNews/2017-01-causes-of-warming)|[:link:](https://www.buzzfeed.com/peteraldhous/blame-co2-for-record-heat)
 2016-12-29|Data and analysis re. transgender rights survey|[:link:](https://github.com/BuzzFeedNews/2016-12-transgender-rights-survey)|[:link:](https://www.buzzfeed.com/lesterfeder/this-is-how-23-countries-feel-about-transgender-rights)[:link:](https://www.buzzfeed.com/jsvine/transgender-rights-survey-methodology)
