@@ -11,7 +11,9 @@
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
-`2017-07-25`|Data and analysis accompanying, "If Jeff Sessions Exits, Trump Could Choose An Acting Attorney General From Among Thousands Of People"|[:link:](https://github.com/BuzzFeedNews/2017-07-doj-gs-15)|[:link:](https://www.buzzfeed.com/chrisgeidner/a-cast-of-thousands-of-possible-acting-ags)
+`2017-08-08`|Data and analysis for "Inside The Partisan Fight For Your News Feed"|[:link:](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)|[:link:](https://www.buzzfeed.com/craigsilverman/inside-the-partisan-fight-for-your-news-feed)
+`2017-08-07`|Data and analysis for "BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found."|[:link:](https://github.com/BuzzFeedNews/2017-08-spy-plane-finder)|[:link:](https://www.buzzfeed.com/peteraldhous/hidden-spy-planes)
+`2017-07-25`|Data and analysis for "If Jeff Sessions Exits, Trump Could Choose An Acting Attorney General From Among Thousands Of People"|[:link:](https://github.com/BuzzFeedNews/2017-07-doj-gs-15)|[:link:](https://www.buzzfeed.com/chrisgeidner/a-cast-of-thousands-of-possible-acting-ags)
 `2017-05-24`|R code to recreate the graphics in "Why Americans Are So Damn Unhealthy, In 4 Shocking Charts"|[:link:](https://github.com/BuzzFeedNews/2017-05-us-health-care)|[:link:](https://www.buzzfeed.com/peteraldhous/american-health-care)
 `2017-04-04`|Data and analysis supporting portions of "Fake News, Real Ads"|[:link:](https://github.com/BuzzFeedNews/2017-04-fake-news-ad-trackers)|[:link:](https://www.buzzfeed.com/craigsilverman/fake-news-real-ads)
 `2017-01-31`|R code to recreate the graphics in "These Nobel Prizewinners Show Why Immigration Is So Important For American Science"|[:link:](https://github.com/BuzzFeedNews/2017-01-immigration-and-science)|[:link:](https://www.buzzfeed.com/peteraldhous/immigration-and-science)
