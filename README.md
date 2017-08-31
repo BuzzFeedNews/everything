@@ -11,6 +11,7 @@
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2017-08-31`|Data and analysis on Harvey-related industrial emissions in Texas|[:link:](https://www.buzzfeed.com/zahrahirji/damage-from-harvey-has-caused-millions-of-pounds-of-toxic)|[:link:](https://github.com/BuzzFeedNews/2017-08-harvey-emissions-reports)
 `2017-08-08`|Data and analysis for "Inside The Partisan Fight For Your News Feed"|[:link:](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)|[:link:](https://www.buzzfeed.com/craigsilverman/inside-the-partisan-fight-for-your-news-feed)
 `2017-08-07`|Data and analysis for "BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found."|[:link:](https://github.com/BuzzFeedNews/2017-08-spy-plane-finder)|[:link:](https://www.buzzfeed.com/peteraldhous/hidden-spy-planes)
 `2017-07-25`|Data and analysis for "If Jeff Sessions Exits, Trump Could Choose An Acting Attorney General From Among Thousands Of People"|[:link:](https://github.com/BuzzFeedNews/2017-07-doj-gs-15)|[:link:](https://www.buzzfeed.com/chrisgeidner/a-cast-of-thousands-of-possible-acting-ags)
