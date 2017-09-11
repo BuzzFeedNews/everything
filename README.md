@@ -11,6 +11,7 @@
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2017-09-11`|Federal employee departure rates, for "Trump’s Election Didn’t Spark An Immediate Exodus From The Federal Government"|[:link:](https://github.com/BuzzFeedNews/2017-09-federal-employee-departure-rates)|[:link:](https://www.buzzfeed.com/jsvine/no-mass-exodus-from-federal-goverment-after-trumps-election)
 `2017-08-31`|Data and analysis on Harvey-related industrial emissions in Texas|[:link:](https://github.com/BuzzFeedNews/2017-08-harvey-emissions-reports)|[:link:](https://www.buzzfeed.com/zahrahirji/damage-from-harvey-has-caused-millions-of-pounds-of-toxic)
 `2017-08-08`|Data and analysis for "Inside The Partisan Fight For Your News Feed"|[:link:](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)|[:link:](https://www.buzzfeed.com/craigsilverman/inside-the-partisan-fight-for-your-news-feed)
 `2017-08-07`|Data and analysis for "BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found."|[:link:](https://github.com/BuzzFeedNews/2017-08-spy-plane-finder)|[:link:](https://www.buzzfeed.com/peteraldhous/hidden-spy-planes)
