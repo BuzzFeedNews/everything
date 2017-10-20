@@ -80,6 +80,7 @@ Repo|Description
 [presidential-campaign-contributions](https://github.com/BuzzFeedNews/presidential-campaign-contributions)|Contributions, transfers, and refunds from recent U.S. presidential candidates' principal campaign committees.
 [nics-firearm-background-checks](https://github.com/BuzzFeedNews/nics-firearm-background-checks)|Monthly data from the FBI's National Instant Criminal Background Check System, converted from PDF to CSV.
 [H-2-certification-data](https://github.com/BuzzFeedNews/H-2-certification-data)|H-2 visa certification data & data-standardization.
+[opm-federal-employment-data](https://archive.org/details/opm-federal-employment-data/)|40+ years of federal employment data from the Office of Personnel Management
 
 ## Libraries and Tools
 
