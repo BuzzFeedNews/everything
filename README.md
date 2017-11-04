@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2017-11-03`|Data and code for "Under Trump, Gun Sales Did Not Spike After The Las Vegas Shooting"|[:link:](https://buzzfeednews.github.io/2017-11-gun-sales-estimates/)|[:link:](https://www.buzzfeed.com/peteraldhous/gun-sales-after-vegas-shooting)
 `2017-09-19`|Updated analysis of Harvey-related industrial emissions in Texas|[:link:](https://github.com/BuzzFeedNews/2017-09-harvey-emissions-reports-update)|[:link:](https://www.buzzfeed.com/nidhisubbaraman/tropical-storm-harvey-emissions-pollution)
 `2017-09-11`|Federal employee departure rates, for "Trump’s Election Didn’t Spark An Immediate Exodus From The Federal Government"|[:link:](https://github.com/BuzzFeedNews/2017-09-federal-employee-departure-rates)|[:link:](https://www.buzzfeed.com/jsvine/no-mass-exodus-from-federal-goverment-after-trumps-election)
 `2017-09-2`|FOIA logs referenced in "These Scientists Got To See Their Competitors’ Research Through Public Records Requests."|[:link:](https://github.com/BuzzFeedNews/2017-09-science-foia)|[:link:](https://www.buzzfeed.com/teresalcarey/when-scientists-foia)
