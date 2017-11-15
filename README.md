@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2017-11-15`|Data on, and analysis of, federal employee diversity|[:link:](https://github.com/BuzzFeedNews/2017-11-federal-employee-diversity)|[:link:](https://www.buzzfeed.com/jsvine/agriculture-department-political-appointee-diversity)
 `2017-11-03`|Data and code for "Under Trump, Gun Sales Did Not Spike After The Las Vegas Shooting"|[:link:](https://buzzfeednews.github.io/2017-11-gun-sales-estimates/)|[:link:](https://www.buzzfeed.com/peteraldhous/gun-sales-after-vegas-shooting)
 `2017-09-19`|Updated analysis of Harvey-related industrial emissions in Texas|[:link:](https://github.com/BuzzFeedNews/2017-09-harvey-emissions-reports-update)|[:link:](https://www.buzzfeed.com/nidhisubbaraman/tropical-storm-harvey-emissions-pollution)
 `2017-09-11`|Federal employee departure rates, for "Trump’s Election Didn’t Spark An Immediate Exodus From The Federal Government"|[:link:](https://github.com/BuzzFeedNews/2017-09-federal-employee-departure-rates)|[:link:](https://www.buzzfeed.com/jsvine/no-mass-exodus-from-federal-goverment-after-trumps-election)
