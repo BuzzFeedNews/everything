@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2017-12-10`|Data, analysis, and charts for "What Sexual Misconduct Allegations Are Getting The Most Attention On Cable News?"|[:link:](https://github.com/BuzzFeedNews/2017-12-sexual-misconduct-cable-news-coverage)|[:link:](https://www.buzzfeed.com/davidcmartin/sexual-misconduct-cable-news-coverage)
 `2017-12-05`|Data and analysis for "We Got Government Data On 20 Years Of Workplace Sexual Harassment Claims. These Charts Break It Down."|[:link:](https://github.com/BuzzFeedNews/2017-12-eeoc-harassment-charges/)|[:link:](https://www.buzzfeed.com/lamvo/eeoc-sexual-harassment-data)
 `2017-11-15`|Data on, and analysis of, federal employee diversity|[:link:](https://github.com/BuzzFeedNews/2017-11-federal-employee-diversity)|[:link:](https://www.buzzfeed.com/jsvine/agriculture-department-political-appointee-diversity)
 `2017-11-03`|Data and code for "Under Trump, Gun Sales Did Not Spike After The Las Vegas Shooting"|[:link:](https://github.com/BuzzFeedNews/2017-11-gun-sales-estimates)|[:link:](https://www.buzzfeed.com/peteraldhous/gun-sales-after-vegas-shooting)
