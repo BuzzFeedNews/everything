@@ -15,6 +15,8 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2018-01-24`|Data and analysis for "An Inside Look At The Accounts Twitter Has Censored In Countries Around The World"|[:link:](https://github.com/BuzzFeedNews/2018-01-twitter-withheld-accounts)|[:link:](https://www.buzzfeed.com/craigsilverman/country-withheld-twitter-accounts)
+`2018-01-23`|Data and analysis for "How Trump’s Tweets Shaped A Year In Politics"|[:link:](https://github.com/BuzzFeedNews/2018-01-trump-twitter-wars)|[:link:](https://www.buzzfeed.com/peteraldhous/trump-twitter-wars)
 `2017-12-28`|Data and analysis for "These Are 50 Of The Biggest Fake News Hits On Facebook In 2017"|[:link:](https://github.com/BuzzFeedNews/2017-12-fake-news-top-50)|[:link:](https://www.buzzfeed.com/craigsilverman/these-are-50-of-the-biggest-fake-news-hits-on-facebook-in)
 `2017-12-10`|Data, analysis, and charts for "What Sexual Misconduct Allegations Are Getting The Most Attention On Cable News?"|[:link:](https://github.com/BuzzFeedNews/2017-12-sexual-misconduct-cable-news-coverage)|[:link:](https://www.buzzfeed.com/davidcmartin/sexual-misconduct-cable-news-coverage)
 `2017-12-05`|Data and analysis for "We Got Government Data On 20 Years Of Workplace Sexual Harassment Claims. These Charts Break It Down."|[:link:](https://github.com/BuzzFeedNews/2017-12-eeoc-harassment-charges/)|[:link:](https://www.buzzfeed.com/lamvo/eeoc-sexual-harassment-data)
