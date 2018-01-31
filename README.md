@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2018-01-31`|Analysis of the text of every State of the Union address|[:link:](https://github.com/BuzzFeedNews/2018-01-trump-state-of-the-union)|[:link:](https://www.buzzfeed.com/peteraldhous/trump-state-of-the-union-words)
 `2018-01-24`|Data and analysis for "An Inside Look At The Accounts Twitter Has Censored In Countries Around The World"|[:link:](https://github.com/BuzzFeedNews/2018-01-twitter-withheld-accounts)|[:link:](https://www.buzzfeed.com/craigsilverman/country-withheld-twitter-accounts)
 `2018-01-23`|Data and analysis for "How Trump’s Tweets Shaped A Year In Politics"|[:link:](https://github.com/BuzzFeedNews/2018-01-trump-twitter-wars)|[:link:](https://www.buzzfeed.com/peteraldhous/trump-twitter-wars)
 `2017-12-28`|Data and analysis for "These Are 50 Of The Biggest Fake News Hits On Facebook In 2017"|[:link:](https://github.com/BuzzFeedNews/2017-12-fake-news-top-50)|[:link:](https://www.buzzfeed.com/craigsilverman/these-are-50-of-the-biggest-fake-news-hits-on-facebook-in)
