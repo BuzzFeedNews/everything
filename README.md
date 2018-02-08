@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2018-02-08`|Data and analysis for "The Edge" (re. figure skating)|[:link:](https://github.com/BuzzFeedNews/2018-02-figure-skating-analysis)|[:link:](http://www.buzzfeed.com/johntemplon/the-edge)
 `2018-01-31`|Analysis of the text of every State of the Union address|[:link:](https://github.com/BuzzFeedNews/2018-01-trump-state-of-the-union)|[:link:](https://www.buzzfeed.com/peteraldhous/trump-state-of-the-union-words)
 `2018-01-24`|Data and analysis for "An Inside Look At The Accounts Twitter Has Censored In Countries Around The World"|[:link:](https://github.com/BuzzFeedNews/2018-01-twitter-withheld-accounts)|[:link:](https://www.buzzfeed.com/craigsilverman/country-withheld-twitter-accounts)
 `2018-01-23`|Data and analysis for "How Trump’s Tweets Shaped A Year In Politics"|[:link:](https://github.com/BuzzFeedNews/2018-01-trump-twitter-wars)|[:link:](https://www.buzzfeed.com/peteraldhous/trump-twitter-wars)
