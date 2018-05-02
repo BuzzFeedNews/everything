@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2018-05-01`|Analysis of fentanyl and cocaine overdose deaths|[:link:](https://github.com/BuzzFeedNews/2018-05-fentanyl-and-cocaine-overdose-deaths)|[:link:](http://www.buzzfeed.com/scottpham/cocaine-fentanyl-opioid-overdoses)
 `2018-03-02`|Analysis of diversity in the dialogue of Best Picture–nominated films|[:link:](https://github.com/BuzzFeedNews/2018-03-oscars-script-diversity-analysis)|[:link:](https://www.buzzfeed.com/lamvo/oscars-script-diversity-analysis)
 `2018-02-23`|Analysis of Olympic figure skating scores|[:link:](https://github.com/BuzzFeedNews/2018-02-olympic-figure-skating-analysis)|[:link:](https://www.buzzfeed.com/johntemplon/by-voting-for-their-own-figure-skating-judges-may-have)
 `2018-02-08`|Data and analysis for "The Edge" (re. figure skating)|[:link:](https://github.com/BuzzFeedNews/2018-02-figure-skating-analysis)|[:link:](http://www.buzzfeed.com/johntemplon/the-edge)
