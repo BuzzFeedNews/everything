@@ -15,7 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
-`2018-07-26`|Analysis of children's home inspection data from the UK's Office for Standards in Education, Children's Services and Skills ("Ofsted")|[:link:](https://github.com/BuzzFeedNews/2018-07-ofsted-inspections)|[:link:](https://www.buzzfeed.com/richholmes/care-price)
+`2018-07-26`|Analysis of children's home inspection data from the UK's Office for Standards in Education, Children's Services and Skills ("Ofsted")|[:link:](https://github.com/BuzzFeedNews/2018-07-ofsted-inspections)|[:link:](https://www.buzzfeed.com/richholmes/care-price)[:link:](https://www.buzzfeed.com/richholmes/keys-group-aaron-leafe)
 `2018-06-29`|Analysis of NYC 311 complaints and gentrification|[:link:](https://github.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification)|[:link:](https://www.buzzfeednews.com/article/lamvo/gentrification-complaints-311-new-york)
 `2018-05-01`|Analysis of fentanyl and cocaine overdose deaths|[:link:](https://github.com/BuzzFeedNews/2018-05-fentanyl-and-cocaine-overdose-deaths)|[:link:](https://www.buzzfeed.com/scottpham/cocaine-fentanyl-opioid-overdoses)
 `2018-03-02`|Analysis of diversity in the dialogue of Best Picture–nominated films|[:link:](https://github.com/BuzzFeedNews/2018-03-oscars-script-diversity-analysis)|[:link:](https://www.buzzfeed.com/lamvo/oscars-script-diversity-analysis)
