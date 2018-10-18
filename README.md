@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2018-10-18`|Analysis of 2018 midterm election demographics|[:link:](https://github.com/BuzzFeedNews/2018-10-midterm-demographics)|[:link:](https://www.buzzfeednews.com/article/johntemplon/black-voters-underrepresented-in-biggest-midterms)
 `2018-09-29`|Analysis of 'immigration services'-related FTC complaints|[:link:](https://github.com/BuzzFeedNews/2018-09-ftc-analysis)|[:link:](https://www.buzzfeednews.com/article/lamvo/undocumented-immigrants-10-year-green-card)
 `2018-08-10`|Data, analysis, and graphics for "Russian Trolls Swarmed The Charlottesville March — Then Twitter Cracked Down"|[:link:](https://github.com/BuzzFeedNews/2018-08-charlottesville-twitter-trolls)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/russia-twitter-trolls-charlottesville)
 `2018-07-28`|Analysis of wildfire trends (with graphics)|[:link:](https://buzzfeednews.github.io/2018-07-wildfire-trends/)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/california-wildfires-people-climate)
