@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2018-12-28`|Year-end analysis of fake news sites and viral posts, 2016–2018|[:link:](https://github.com/BuzzFeedNews/2018-12-fake-news-top-50)|[:link:](https://www.buzzfeednews.com/article/craigsilverman/facebook-fake-news-hits-2018)
 `2018-12-19`|Analysis of WeChat posts re. VP Pence|[:link:](https://github.com/BuzzFeedNews/2018-12-wechat-pence/)|[:link:](https://www.buzzfeednews.com/article/craigsilverman/china-censor-trump-content-wechat)
 `2018-10-25`|Analysis and graphics for "How Russia’s Online Trolls Engaged Unsuspecting American Voters — And Sometimes Duped The Media"|[:link:](https://github.com/BuzzFeedNews/2018-10-russian-troll-tweets)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/russia-online-trolls-viral-strategy)
 `2018-10-18`|Analysis of 2018 midterm election demographics|[:link:](https://github.com/BuzzFeedNews/2018-10-midterm-demographics)|[:link:](https://www.buzzfeednews.com/article/johntemplon/black-voters-underrepresented-in-biggest-midterms)
