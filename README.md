@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2019-01-24`|Data and code for, "Shoot Someone In A Major US City, And Odds Are You’ll Get Away With It"|[:link:](https://github.com/the-trace-and-buzzfeed-news/introduction)|[:link:](https://www.buzzfeednews.com/article/sarahryley/police-unsolved-shootings) [:link:](https://www.buzzfeednews.com/article/sarahryley/5-things-to-know-about-cities-failure-to-arrest-shooters)
 `2018-12-28`|Year-end analysis of fake news sites and viral posts, 2016–2018|[:link:](https://github.com/BuzzFeedNews/2018-12-fake-news-top-50)|[:link:](https://www.buzzfeednews.com/article/craigsilverman/facebook-fake-news-hits-2018)
 `2018-12-19`|Analysis of WeChat posts re. VP Pence|[:link:](https://github.com/BuzzFeedNews/2018-12-wechat-pence/)|[:link:](https://www.buzzfeednews.com/article/craigsilverman/china-censor-trump-content-wechat)
 `2018-10-25`|Analysis and graphics for "How Russia’s Online Trolls Engaged Unsuspecting American Voters — And Sometimes Duped The Media"|[:link:](https://github.com/BuzzFeedNews/2018-10-russian-troll-tweets)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/russia-online-trolls-viral-strategy)
