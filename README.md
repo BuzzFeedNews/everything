@@ -15,6 +15,8 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2019-08-03`|Analysis of ActBlue's 2019 mid-year FEC report|[:link:](https://github.com/BuzzFeedNews/2019-08-actblue-donations)|[:link:](https://www.buzzfeednews.com/article/katherinemiller/elizabeth-warren-actblue-data-bernie-sanders-kamala-harris)
+`2019-07-17`|Analysis of contributions to presidential campaigns, based on 2019 Q2 filings|[:link:](https://github.com/BuzzFeedNews/2019-07-fec-daily-donors)|[:link:](https://www.buzzfeednews.com/article/mattberman/2020-democratic-primary-donors)
 `2019-04-22`|Data and code to make maps and animation depicting current realities of climate change|[:link:](https://buzzfeednews.github.io/2019-04-climate-change/)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/climate-change-maps-ice-sea-level-rise)
 `2019-04-16`|Analysis of donors giving $200+ to multiple Democratic candidates early in 2020 election cycle|[:link:](https://github.com/BuzzFeedNews/2019-04-democratic-candidate-codonors)|[:link:](https://www.buzzfeednews.com/article/tariniparti/democratic-donors-2020-candidates)
 `2019-01-24`|Data and code for, "Shoot Someone In A Major US City, And Odds Are You’ll Get Away With It"|[:link:](https://github.com/the-trace-and-buzzfeed-news/introduction)|[:link:](https://www.buzzfeednews.com/article/sarahryley/police-unsolved-shootings) [:link:](https://www.buzzfeednews.com/article/sarahryley/5-things-to-know-about-cities-failure-to-arrest-shooters)
