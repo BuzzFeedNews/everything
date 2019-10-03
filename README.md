@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2019-10-03`|Analysis of FCC comments and data breaches|[:link:](https://github.com/BuzzFeedNews/2019-10-fcc-comments)|[:link:](https://www.buzzfeednews.com/article/jsvine/net-neutrality-fcc-fake-comments-impersonation)
 `2019-08-03`|Analysis of ActBlue's 2019 mid-year FEC report|[:link:](https://github.com/BuzzFeedNews/2019-08-actblue-donations)|[:link:](https://www.buzzfeednews.com/article/katherinemiller/elizabeth-warren-actblue-data-bernie-sanders-kamala-harris)
 `2019-07-17`|Analysis of contributions to presidential campaigns, based on 2019 Q2 filings|[:link:](https://github.com/BuzzFeedNews/2019-07-fec-daily-donors)|[:link:](https://www.buzzfeednews.com/article/mattberman/2020-democratic-primary-donors)
 `2019-04-22`|Data and code to make maps and animation depicting current realities of climate change|[:link:](https://buzzfeednews.github.io/2019-04-climate-change/)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/climate-change-maps-ice-sea-level-rise)
