@@ -15,6 +15,9 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2019-11-11`|Analysis of U.S. Census Survey of Income and Program Participation (SIPP), re. generational trends in support providers|[:link:](https://github.com/BuzzFeedNews/2019-11-sipp)|[:link:](https://www.buzzfeednews.com/article/venessawong/millennials-parents-stereotypes-boomers-data)
+`2019-10-31`|Analysis for "Your Dumb Tweets Are Getting Flagged To People Trying To Stop School Shootings"|[:link:](https://buzzfeednews.github.io/2019-10-social-sentinel/)|[:link:](https://www.buzzfeednews.com/article/lamvo/social-sentinel-school-officials-shootings-flag-social-media)
+`2019-10-17`|Analysis for "Donald Trump’s Campaign Is Cashing In On Impeachment"|[:link:](https://github.com/BuzzFeedNews/2019-10-fec-top-10-donors)|[:link:](https://www.buzzfeednews.com/article/ryancbrooks/donald-trump-fundraising-impeachment)
 `2019-10-03`|Analysis of FCC comments and data breaches|[:link:](https://github.com/BuzzFeedNews/2019-10-fcc-comments)|[:link:](https://www.buzzfeednews.com/article/jsvine/net-neutrality-fcc-fake-comments-impersonation)
 `2019-08-03`|Analysis of ActBlue's 2019 mid-year FEC report|[:link:](https://github.com/BuzzFeedNews/2019-08-actblue-donations)|[:link:](https://www.buzzfeednews.com/article/katherinemiller/elizabeth-warren-actblue-data-bernie-sanders-kamala-harris)
 `2019-07-17`|Analysis of contributions to presidential campaigns, based on 2019 Q2 filings|[:link:](https://github.com/BuzzFeedNews/2019-07-fec-daily-donors)|[:link:](https://www.buzzfeednews.com/article/mattberman/2020-democratic-primary-donors)
