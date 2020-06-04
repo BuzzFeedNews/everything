@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2020-06-04`|Analysis of "1033" program transfers since Ferguson|[:link:](https://github.com/BuzzFeedNews/2020-06-leso-1033-transfers-since-ferguson)|[:link:](https://www.buzzfeednews.com/article/johntemplon/police-departments-military-gear-1033-program)
 `2020-05-07`|Analysis of ZIP code–level COVID-19 cases in five major cities|[:link:](https://github.com/BuzzFeedNews/2020-05-covid-city-zip-codes)|[:link:](https://www.buzzfeednews.com/article/johntemplon/detailed-coronavirus-maps-by-zip-code-major-cities)
 `2020-02-27`|Analysis of Census tract–level gentrification in five major cities|[:link:](https://github.com/BuzzFeedNews/2020-02-gentrification)|[:link:](https://www.buzzfeednews.com/article/lamvo/gentrification-maps-white-black-people-neighborhoods)
 `2019-11-11`|Analysis of U.S. Census Survey of Income and Program Participation (SIPP), re. generational trends in support providers|[:link:](https://github.com/BuzzFeedNews/2019-11-sipp)|[:link:](https://www.buzzfeednews.com/article/venessawong/millennials-parents-stereotypes-boomers-data)
