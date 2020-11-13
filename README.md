@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2020-11-11`|Analysis of county-level COVID-19 deaths and presidential voter preference|[:link:](https://buzzfeednews.github.io/2020-11-covid-election/)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/coronavirus-deaths-unemployment-trump-election-results)
 `2020-10-28`|Analysis of 2020's "Electoral College effect" by demographic|[:link:](https://github.com/BuzzFeedNews/2020-10-electoral-college-effect-by-demographic)|[:link:](https://www.buzzfeednews.com/article/johntemplon/the-electoral-college-still-favors-white-voters)
 `2020-06-04`|Analysis of "1033" program transfers since Ferguson|[:link:](https://github.com/BuzzFeedNews/2020-06-leso-1033-transfers-since-ferguson)|[:link:](https://www.buzzfeednews.com/article/johntemplon/police-departments-military-gear-1033-program)
 `2020-05-07`|Analysis of ZIP code–level COVID-19 cases in five major cities|[:link:](https://github.com/BuzzFeedNews/2020-05-covid-city-zip-codes)|[:link:](https://www.buzzfeednews.com/article/johntemplon/detailed-coronavirus-maps-by-zip-code-major-cities)
