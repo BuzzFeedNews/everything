@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2021-09-17`|Data and analysis re. US adult guardianship filing counts|[:link:](https://github.com/BuzzFeedNews/2021-09-guardianship-filings)|[:link:](https://buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)
 `2021-05-26`|Analysis of excess deaths caused by the February 2021 winter storm and power outages in Texas|[:link:](https://buzzfeednews.github.io/2021-05-tx-winter-storm-deaths/)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/texas-winter-storm-power-outage-death-toll)
 `2020-11-11`|Analysis of county-level COVID-19 deaths and presidential voter preference|[:link:](https://buzzfeednews.github.io/2020-11-covid-election/)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/coronavirus-deaths-unemployment-trump-election-results)
 `2020-10-28`|Analysis of 2020's "Electoral College effect" by demographic|[:link:](https://github.com/BuzzFeedNews/2020-10-electoral-college-effect-by-demographic)|[:link:](https://www.buzzfeednews.com/article/johntemplon/the-electoral-college-still-favors-white-voters)
