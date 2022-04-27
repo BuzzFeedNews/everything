@@ -15,6 +15,7 @@ An index of all our open-source data, analysis, libraries, tools, and guides.
 
 Date|Description|Repo(s)|Article(s)
 ----|-----------|:--:|:-----:
+`2022-04-27`|Data and analysis of state child abuse and neglect registries and appeals|[:link:](https://github.com/BuzzFeedNews/2022-04-registries)|[:link:](https://www.buzzfeednews.com/article/scottpham/child-abuse-and-neglect-registries-punish-parents-of-color)
 `2022-04-25`|Data and analysis of intermediate care facilities|[:link:](https://github.com/BuzzFeedNews/2022-04-icf-analysis)|[:link:](https://www.buzzfeednews.com/article/kendalltaggart/kkr-brightspring-disability-private-equity-abuse)
 `2021-09-17`|Data and analysis re. US adult guardianship filing counts|[:link:](https://github.com/BuzzFeedNews/2021-09-guardianship-filings)|[:link:](https://buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)
 `2021-05-26`|Analysis of excess deaths caused by the February 2021 winter storm and power outages in Texas|[:link:](https://buzzfeednews.github.io/2021-05-tx-winter-storm-deaths/)|[:link:](https://www.buzzfeednews.com/article/peteraldhous/texas-winter-storm-power-outage-death-toll)
